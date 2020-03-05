@@ -625,12 +625,12 @@
           "_anchor": "gallery2-6",
           "_styles": {
             ".mbr-gallery-title": {
-              "font-size": "9px",
+              "font-size": "10px",
               "font-family": "'Libre Franklin', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             },
             ".mbr-gallery-title B": {
-              "font-size": "9px"
+              "font-size": "10px"
             }
           }
         },
